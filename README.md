@@ -1,4 +1,6 @@
 # Populated Polygons to Network — *pp2n*
+[![DOI](https://zenodo.org/badge/244989283.svg)](https://zenodo.org/badge/latestdoi/244989283) ![tag](https://img.shields.io/github/v/release/jGaboardi/pp2n?include_prereleases&sort=semver)
+
 Originally developed as a foundational method in Gaboardi (2019).
 
  * **Gaboardi, J. D.** (2019). *Populated Polygons to Networks: A Population-Centric Approach to Spatial
