@@ -27,9 +27,25 @@ Network Allocation*. Ph. D. thesis, Florida State University. Available at [FSU 
 
 
 
-## BibTeX Citation
+## BibTeX Citations
 ```
+@software{jGaboardi:pp2n:2020,
+  author        = {Gaboardi, James David},
+  title         = {{jGaboardi/pp2n}},
+  month         = mar,
+  year          = 2020,
+  publisher     = {Zenodo},
+  doi           = {10.5281/zenodo.3697225},
+  url           = {https://doi.org/10.5281/zenodo.3697225}
+}
 
+@phdthesis{Gaboardi:dissertation:2019b,
+  author        = {Gaboardi, James David},
+  school        = {Florida State University},
+  title         = {{Populated Polygons to Networks: A Population-Centric Approach to Spatial Network Allocation}},
+  note          = {Available at \href{http://fsu.digital.flvc.org/islandora/object/fsu%3A722525}{FSU DigiNole}},
+  year          = {2019}
+}
 ```
 
 ## License
