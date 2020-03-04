@@ -12,7 +12,7 @@ Network Allocation*. Ph. D. thesis, Florida State University. Available at [FSU 
 ... short blurb ...
 
 <p align="center">
-<img src="figs/pp2n_concept.png" width="500" height="250" />
+<img src="figs/pp2n_concept.png" width="475" height="225" />
 </p>
 
 
