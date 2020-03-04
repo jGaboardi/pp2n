@@ -9,8 +9,10 @@ Network Allocation*. Ph. D. thesis, Florida State University. Available at [FSU 
 
 ... short blurb ...
 
+<p align="center">
+<img src="figs/pp2n_concept.png" width="600" height="360" />
+</p>
 
-... figure from chapter 2 ...
 
 **See also:** [jGaboardi_dissertation](https://github.com/jGaboardi/jGaboardi_dissertation), [jGaboardi/tigernet](https://github.com/jGaboardi/tigernet), and [pysal/spaghetti](https://github.com/pysal/spaghetti)
 
