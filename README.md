@@ -12,12 +12,14 @@ Network Allocation*. Ph. D. thesis, Florida State University. Available at [FSU 
 
 ... short blurb ...
 
+... maybe pseudo algorithm ...
+
 <p align="center">
 <img src="figs/pp2n_concept.png" width="475" height="225" />
 </p>
 
 
-**See also:** [jGaboardi_dissertation](https://github.com/jGaboardi/jGaboardi_dissertation), [jGaboardi/tigernet](https://github.com/jGaboardi/tigernet), and [pysal/spaghetti](https://github.com/pysal/spaghetti)
+**See also:** [jGaboardi/jGaboardi_dissertation](https://github.com/jGaboardi/jGaboardi_dissertation), [jGaboardi/tigernet](https://github.com/jGaboardi/tigernet), and [pysal/spaghetti](https://github.com/pysal/spaghetti)
 
 
 
