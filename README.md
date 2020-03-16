@@ -10,7 +10,7 @@ Network Allocation*. Ph. D. thesis, Florida State University. Available at [FSU 
 
 ## What is the *pp2n* method?
 
-... short blurb ...
+The *pp2n* an original solution for allocating populations onto networks that is higher resolution than traditional methods and less computationaly complex than state-of-the-art methods (Gaboardi, 2019).
 
 ... maybe pseudo algorithm ...
 
