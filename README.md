@@ -61,7 +61,7 @@ The package is licensed under the [BSD license](https://github.com/jGaboardi/pp2
 ## Funding
 This project is/was partially funded through:
 
-<img align="middle" src="figs/ardc_logo.png" width="100">  Atlanta Research Data Center  : [A Polygon-Based Approach to Spatial Network Allocation: Optimal Facility Location Modeling and Network Analysis](https://atlantardc.files.wordpress.com/2018/05/ardc-newsletter_2018_2.pdf)
+<img align="middle" src="figs/ardc_logo.png" width="150">  Atlanta Research Data Center: [A Polygon-Based Approach to Spatial Network Allocation:](https://atlantardc.files.wordpress.com/2018/05/ardc-newsletter_2018_2.pdf)
 
 <img align="middle" src="figs/nsf_logo.png" width="100">  National Science Foundation Award #1825768: [National Historical Geographic Information System](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1825768&HistoricalAwards=false)
 
