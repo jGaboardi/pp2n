@@ -1,4 +1,4 @@
-# Populated Polygons to Network — *pp2n*
+# Populated Polygons to Networks — *pp2n*
 [![DOI](https://zenodo.org/badge/244989283.svg)](https://zenodo.org/badge/latestdoi/244989283) [![GitHub release](https://img.shields.io/github/v/tag/jGaboardi/pp2n?include_prereleases&logo=GitHub)](https://img.shields.io/github/v/tag/jGaboardi/pp2n?include_prereleases&logo=GitHub)
 
 
