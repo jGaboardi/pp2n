@@ -57,3 +57,6 @@ The *pp2n* an original solution for allocating populations onto networks that is
 
 ## License
 The package is licensed under the [BSD license](https://github.com/jGaboardi/pp2n/blob/master/LICENSE).
+
+## Funding
+<img src="figs/nsf_logo.png" width="50"> This project is partially funded through National Science Foundation Award #1825768: [National Historical Geographic Information System](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1825768&HistoricalAwards=false)
