@@ -1,5 +1,6 @@
 # Populated Polygons to Networks — *pp2n*
 [![DOI](https://zenodo.org/badge/244989283.svg)](https://zenodo.org/badge/latestdoi/244989283) [![GitHub release](https://img.shields.io/github/v/tag/jGaboardi/pp2n?include_prereleases&logo=GitHub)](https://img.shields.io/github/v/tag/jGaboardi/pp2n?include_prereleases&logo=GitHub)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 
 Originally developed as a foundational method in Gaboardi (2019).
