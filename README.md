@@ -17,7 +17,7 @@ The *pp2n* is an original solution for allocating populations onto networks that
 ... maybe pseudo algorithm ...
 
 <p align="center">
-<img src="figs/pp2n_concept.png" width="525" height="275" />
+<img src="figs/pp2n_concept.png" width="600" height="300" />
 </p>
 
 
