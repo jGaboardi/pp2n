@@ -1,2 +1,5 @@
-libpysal
 geopandas
+libpysal
+numpy
+pandas
+scipy
