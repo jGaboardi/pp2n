@@ -1,5 +1,0 @@
-geopandas
-libpysal
-numpy
-pandas
-scipy
