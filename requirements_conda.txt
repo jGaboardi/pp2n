@@ -6,3 +6,4 @@ pandas>=1.0
 pre-commit
 scipy
 shapely>=1.7.1
+spaghetti
