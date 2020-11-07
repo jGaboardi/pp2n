@@ -14,10 +14,10 @@ Network Allocation*. Ph. D. dissertation, Florida State University. Available at
 
 The *pp2n* is an original solution for allocating populations onto networks that is higher resolution than traditional methods and less computationaly complex than state-of-the-art methods (Gaboardi, 2019).
 
-... maybe pseudo algorithm ...
+**... maybe pseudo algorithm here?...**
 
 <p align="center">
-<img src="figs/pp2n_concept.png" width="600" height="300" />
+<img src="figs/pp2n_concept.png" width="800" height="400" />
 </p>
 
 
