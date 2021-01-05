@@ -4,7 +4,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 
-Originally developed as a foundational method in Gaboardi (2019).
+Originally developed as the foundational method of Gaboardi (2019).
 
  * **Gaboardi, J. D.** (2019). *Populated Polygons to Networks: A Population-Centric Approach to Spatial
 Network Allocation*. Ph. D. dissertation, Florida State University. Available at [FSU DigiNole](http://fsu.digital.flvc.org/islandora/object/fsu%3A722525).
