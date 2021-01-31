@@ -7,7 +7,7 @@
 Originally developed as the foundational method of Gaboardi (2019).
 
  * **Gaboardi, J. D.** (2019). *Populated Polygons to Networks: A Population-Centric Approach to Spatial
-Network Allocation*. Ph. D. dissertation, Florida State University. Available at [FSU DigiNole](http://fsu.digital.flvc.org/islandora/object/fsu%3A722525).
+Network Allocation*. PhD dissertation, Florida State University. Available at [FSU DigiNole](http://fsu.digital.flvc.org/islandora/object/fsu%3A722525).
 
 
 ## What is the *pp2n* method?
